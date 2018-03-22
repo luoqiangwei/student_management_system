@@ -5,6 +5,10 @@
 
 移植可能出现的问题的解决方案：scanf_s 等安全函数需要替换为非安全的函数，_sleep 等系统函数需要根据所需移植的环境进行替换
 
+
+
+
+
 ![创建新表1](https://github.com/luoqiangwei/student_management_system/blob/master/pic/%E5%88%9B%E5%BB%BA%E6%96%B0%E8%A1%A81.png)
 ![创建新表2](https://github.com/luoqiangwei/student_management_system/blob/master/pic/%E5%88%9B%E5%BB%BA%E6%96%B0%E8%A1%A82.png)
 ![创建新表3](https://github.com/luoqiangwei/student_management_system/blob/master/pic/%E5%88%9B%E5%BB%BA%E6%96%B0%E8%A1%A83.png)
